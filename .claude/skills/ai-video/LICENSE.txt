@@ -1,0 +1,23 @@
+AI Video Editing Skill: license
+Copyright (c) 2026 Bruno Coutinho. All rights reserved.
+
+By downloading or using this skill you accept this license. It is a personal, non-transferable license for the buyer.
+
+You may: use the skill to make videos for yourself, your business and your clients (including paid client work), publish those videos anywhere, and modify the skill for your own use.
+
+You may not:
+- resell, share, give away, sublicense, upload or publish the skill or any part of it (code, guides, scene library, kits), modified or not;
+- include it in another product, template pack, course, membership or tool;
+- use it, or anything derived from it, to build or offer a competing video-creation product, app, service or skill.
+
+If you break this license:
+- your license ends immediately and you lose access to updates and support;
+- copies will be removed through takedown notices (DMCA and platform reports);
+- you agree to pay 10 times the price you paid for every unauthorized copy sold, shared or distributed, plus reasonable legal costs, without limiting other remedies under copyright law.
+Copies can be traced to the purchaser's order.
+
+Videos you make are yours. Voices are subject to your ElevenLabs (or other provider) plan terms; logos, footage and trademarks you add are your responsibility.
+
+Bundled fonts are licensed under the SIL Open Font License (see fonts/). three.js and Playwright are under their own open-source licenses (MIT / Apache-2.0).
+
+Provided "as is", without warranty.

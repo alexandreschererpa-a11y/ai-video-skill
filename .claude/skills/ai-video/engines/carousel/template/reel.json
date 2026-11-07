@@ -1,0 +1,11 @@
+{
+  "style": "carousel",
+  "look": "papel",
+  "name": "",
+  "size": { "w": 1080, "h": 1350 },
+  "slideSeconds": 4,
+  "header": "// seu @perfil",
+  "swipeText": "deslize →",
+  "cta": { "keyword": "CARROSSEL" },
+  "theme": { "accent": "#D93B2B" }
+}
